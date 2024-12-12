@@ -6,7 +6,6 @@ public class Main {
         int[] firstArray = new int[] {1,2,3} ;
         double[] secondArray = new double[] {1.57, 7.654, 9.986};
         char[] thirdArray = new char[] {'o','w','t'};
-
         // Задача 2
         System.out.println("Задача 2");
         for (int i = 0; i < firstArray.length; i++) {
